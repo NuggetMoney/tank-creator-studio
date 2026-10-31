@@ -3,8 +3,8 @@
 
 import { useEffect, useState } from "react";
 import {
-  Box, Save, Copy, Trash2, Play, Pause,
-  Upload, RotateCcw, Plus, Pencil, Tank
+  Save, Copy, Trash2, Play, Pause,
+  Upload, RotateCcw, Plus, Pencil
 } from "lucide-react";
 
 type TankDesign = {
